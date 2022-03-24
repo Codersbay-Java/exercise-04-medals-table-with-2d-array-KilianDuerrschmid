@@ -9,6 +9,7 @@ public class Main {
 				"Russland","Kanada","Schweden","Südkorea","Schweiz"};
 		int[][] medals = {{11, 12, 6}, {9, 9, 7}, {9, 7, 7}, {8, 6, 8},
 				{7, 10, 7}, {7, 2, 5}, {6, 3, 2}, {5, 4, 5}};
-
+		System.out.println("Hello");
+		System.out.println("test");
 	}
 }
